@@ -22,9 +22,9 @@ export default function (kibana) {
     uiExports: {
       app: {
         id: 'wazuh',
-        title: 'Wazuh',
-        description: 'Wazuh app for Kibana',
-        icon: 'plugins/wazuh/img/icon.svg',
+        title: 'JEP',
+        description: 'JEP app for Kibana',
+        icon: 'plugins/wazuh/img/jep.svg',
         main: 'plugins/wazuh/app'
       },
       hacks: ['plugins/wazuh/icon-style'],
