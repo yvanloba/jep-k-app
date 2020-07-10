@@ -22,7 +22,7 @@ export default function (kibana) {
     uiExports: {
       app: {
         id: 'wazuh',
-        title: 'Jighi EndPoint Protect',
+        title: 'Jighi EndPoint Protection',
         description: 'JEP app for Kibana',
         icon: 'plugins/wazuh/img/jep.svg',
         main: 'plugins/wazuh/app'
